@@ -1,12 +1,12 @@
 # Vision-transformers-for-image-classification
-This repository contains implementation of vision transformers for image classification
+This repository contains the implementation of vision transformers for image classification
 
 
 # Overview
 
-This notebook implements Vision Transformer (ViT) model by Alexey Dosovitskiy et al for image classification, and demonstrates it on the Cassava Leaf Disease Classification dataset.
+This notebook implements the Vision Transformer (ViT) model by Alexey Dosovitskiy et al for image classification and demonstrates it on the Cassava Leaf Disease Classification dataset.
 
-For from scratch implementation of ViT check out this notebook: <br>
+For from-scratch implementation of ViT check out this notebook: <br>
 https://www.kaggle.com/raufmomin/vision-transformer-vit-from-scratch
 
 Research Paper: https://arxiv.org/pdf/2010.11929.pdf <br>
