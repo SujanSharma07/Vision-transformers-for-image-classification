@@ -30,8 +30,6 @@ There are models pre-trained on imagenet21k for the following architectures:
 ViT-B/16, ViT-B/32, ViT-L/16, ViT-L/32 and ViT-H/14. 
 There are also the same models pre-trained on imagenet21k and fine-tuned on imagenet2012.
 
-![image.png](attachment:image.png)
-
 
 # Experimental Setup
 For our experiments, we utilized Kaggle as our computing platform. Kaggle offers robust computational
